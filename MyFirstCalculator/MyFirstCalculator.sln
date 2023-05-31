@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstCalculator", "MyFirstCalculator.csproj", "{7B87D542-614A-4774-9CA7-AFCA6114E2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstCalculatorTests", "..\MyFirstCalculatorTests\MyFirstCalculatorTests.csproj", "{CAD25CAD-FC5B-466E-A9DE-E3FD20BA411B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B87D542-614A-4774-9CA7-AFCA6114E2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B87D542-614A-4774-9CA7-AFCA6114E2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B87D542-614A-4774-9CA7-AFCA6114E2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B87D542-614A-4774-9CA7-AFCA6114E2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD25CAD-FC5B-466E-A9DE-E3FD20BA411B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD25CAD-FC5B-466E-A9DE-E3FD20BA411B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD25CAD-FC5B-466E-A9DE-E3FD20BA411B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD25CAD-FC5B-466E-A9DE-E3FD20BA411B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75E082A-6EFB-435A-9596-B44CD5A9E69D}
+	EndGlobalSection
+EndGlobal
